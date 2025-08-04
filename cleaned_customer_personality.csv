@@ -1,0 +1,5 @@
+id,year_birth,education,marital_status,income,dt_customer,recency,complain,country
+17850,1957,Graduation,Divorced,58138,2014-09-04,58,0,SP
+11852,1954,Phd,Married,46344,2012-07-15,38,0,SP
+6350,1965,2N Cycle,Single,71613,2013-01-12,26,0,SP
+17400,1984,Basic,Married,26646,2014-01-15,17,0,SP
